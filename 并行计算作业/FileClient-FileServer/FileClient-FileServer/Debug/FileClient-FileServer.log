@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\users\zhushiyuan\desktop\201920085211032-朱时源-prj08-20191118\fileclient-fileserver\fileclient-fileserver\cblockingsocket.h(63): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  FileClient-FileServer.vcxproj -> C:\Users\zhushiyuan\Desktop\201920085211032-朱时源-PRJ08-20191118\FileClient-FileServer\Debug\FileClient.exe
